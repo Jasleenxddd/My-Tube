@@ -2,8 +2,6 @@
 
 MyTube is a video player web application where a user can view, search, and comment on videos. The application provides a seamless experience for video consumption, offering features like video recommendations, and responsive design.
 
-Project link: my-tube-six.vercel.app
-
 ## Features
 
 - Video Playback: Smooth video playback using a video player component.
